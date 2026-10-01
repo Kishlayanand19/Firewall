@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite3
+thoughtfirewall.db
+.pytest_cache/
+.mypy_cache/
